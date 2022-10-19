@@ -1,2 +1,2 @@
 # belgium-campus-helpdesk
-This is where you find solutions to all your problems in regard to simplifying some processes.
+A place where to find solutions to problems in regard to simplifying processes.
