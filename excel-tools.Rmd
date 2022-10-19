@@ -1,0 +1,18 @@
+---
+title: "Excel tools"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+This is designed in such a way that simplifies work of lecturers when it comes to results capturing.
+
+## VLOOKUP and SUMIF
+
+You can include R code in the document as follows:
+
+Populate the "Final" worksheet with marks from the "CT1" and "ST" worksheets faster. This helps to improve the process of capturing marks especially when some students did not write the test. You can use the VLOOKUP function to populate the "Final" worksheet.				
